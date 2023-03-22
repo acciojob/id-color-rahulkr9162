@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
 #yellow{
 	background-color:yellow;
-	border:solid green 3px;
+	border:solid green 1px;
+	border-top:solid green 3px;
 }
 #green{
 	background-color:green;
